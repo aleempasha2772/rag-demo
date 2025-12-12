@@ -1,15 +1,3 @@
-### Rating: 8.5/10
-
-This is a really strong README—clear, well-organized, and thorough. It does a great job explaining what the project is, how to get it running, and why someone might want to use it. The structure with emojis makes it easy to scan, the local/offline focus is a big plus for privacy-conscious folks, and highlighting no API keys needed is super appealing. It feels professional yet approachable, like a solid tutorial repo.
-
-Minor deductions: 
-- The getting started steps are a bit vague (e.g., no exact commands for running ingestion or the app—it just says "run the ingestion pipeline" without specifying python ingestionPipeline.py or whatever).
-- Some sections could use code snippets for commands (like actually running the scripts).
-- It's a touch repetitive in places (e.g., emphasizing local run multiple times).
-
-Overall, excellent for a demo repo—way better than most bare-bones ones on GitHub.
-
-### More Human-Made Version (Rewritten to sound natural, like something I'd write myself while keeping all the original context and details intact)
 
 # RAG Demo
 

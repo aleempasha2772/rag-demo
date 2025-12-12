@@ -73,6 +73,8 @@ questions = [
     "What are Aleem Pasha's technical skills?",
     "What projects has he worked on at Tata Consultancy Services?",
     "What is his educational background?",
+    "What is his age?",
+
 ]
 
 for question in questions:
